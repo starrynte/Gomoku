@@ -1,4 +1,0 @@
-Gomoku
-======
-
-for Java
